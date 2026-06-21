@@ -59,9 +59,16 @@ export const botConfig = {
   applications: {
     // Default questions shown when someone fills out an application.
     defaultQuestions: [
-      { question: "What is your name?", required: true },
-      { question: "How old are you?", required: true },
-      { question: "Why do you want to join?", required: true },
+      { question: "Why do you want to become a staff member for Vanguard Crew?", required: true },
+      { question: "How long have you been a member of Vanguard Crew?", required: true },
+      { question: "How many hours per week can you dedicate to the server?", required: true },
+      { question: "Have you previously been a staff member in another Discord server?", required: true },
+      { question: "What do you believe makes a great staff member?", required: true },
+      { question: "A member begins insulting another member in chat. How would you handle the situation?", required: true },
+      { question: "A friend of yours is reported for breaking the rules. How would you handle it?", required: true },
+      { question: "You disagree with another staff member's decision. What would you do?", required: true },
+      { question: "What would you do to help improve the community?", required: true },
+      { question: "What qualities make you stand out from other applicants?", required: true },
     ],
 
     // Embed colors by application status.
