@@ -38,10 +38,10 @@ cooldown: 86400000,
         }
     },
     {
-        id: 'premium_role',
-        name: 'Premium Server Role',
+        id: 'Guilded Elite Rank',
+        name: 'Guilded Elite Rank',
         price: 100000,
-        description: 'A special role granting a fancy color and a 10% daily bonus.',
+        description: 'A special rank granting a fancy color and a 10% daily bonus.',
         type: 'role',
 roleId: null,
         effect: {
